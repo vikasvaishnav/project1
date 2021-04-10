@@ -1,0 +1,13 @@
+--------SQL----Most secure system
+DBMS(Data base management system)for security
+1. to create data base 
+2. to create table
+3. store all the information in one table.
+
+
+
+---How to downlaod MYSQL--
+1. Google Browser 
+2. Downlaod My sql 
+3.www.mysql.com
+4. My Sql community Server
